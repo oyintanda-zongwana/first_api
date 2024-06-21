@@ -1,6 +1,6 @@
-{"data":[
-    {"aboutMe": "My name is Oyintanda Zongwana and i am a student at life choices"},
-    {"projects": [
+{"data":{
+    "aboutMe": "My name is Oyintanda Zongwana and i am a student at life choices",
+    "projects": [
         {
             "name": "calculator",
             "github": "https://github.com/oyintanda-zongwana/Calcolator",
@@ -57,8 +57,8 @@
             "discription": "i used ...",
             "image": "URL"
         }
-    ]},
-    {"education": [
+    ],
+    "education": [
         {
         "description": "Malibu High School is a vibrant learning community that delivers quality education and fulfillment through exemplary leadership. We provide all members of the school community with a multiplicity of opportunities to utilize potential to attain excellent results.",
         "year": "2019 - 2023",
@@ -81,8 +81,8 @@
             }
         ]
         }
-    ]},
-    {"skills":[
+    ],
+    "skills":[
         {
             "name":"HTML Icon",
             "image":"url"
@@ -107,8 +107,8 @@
             "name":"Vue 3 Icon",
             "image":"url"
         }
-    ]},
-    {"workExp": [
+    ],
+    "workExp": [
         {
             "placeOfWork": "Sound Room",
             "year": "2017 - Present",
@@ -119,14 +119,13 @@
                 "position": "Boss"
             }
         }
-    ]},
-    {"testimonials": [
+    ],
+    "testimonials": [
         {
             "name": "",
             "position": "",
             "message": "",
             "image": ""
         }
-    ]}
     ]
-}
+}}
