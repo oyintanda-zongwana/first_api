@@ -1,6 +1,6 @@
 {"data":{
-    "AboutMe": "My name is Oyintanda Zongwana and i am a student at life choices",
-    "Projects": [
+    "aboutMe": "My name is Oyintanda Zongwana and i am a student at life choices",
+    "projects": [
         {
             "name": "calculator",
             "github": "https://github.com/oyintanda-zongwana/Calcolator",
