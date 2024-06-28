@@ -5,56 +5,56 @@
             "name": "calculator",
             "github": "https://github.com/oyintanda-zongwana/Calcolator",
             "vercel": "https://calculator-fawn-one.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This calculator has all the basic functions of a normal calculator.",
             "image": "URL"
         },
         {
             "name": "BMI calculator",
             "github": "https://github.com/oyintanda-zongwana/BMI-Calculator",
             "vercel": "https://bmi-calculator-vert-zeta.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This is a basic BMI calculator.",
             "image": "URL"
         },
         {
             "name": "E-com Project",
             "github": "https://github.com/oyintanda-zongwana/E-com-project",
             "vercel": "https://e-com-project-beige.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This is a ecommerce website. It has some basic CRUD functions and it uses local storage.",
             "image": "URL"
         },
         {
             "name": "Hex-convertor",
             "github": "https://github.com/oyintanda-zongwana/hex-convetort",
             "vercel": "https://hex-convetor.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This is a hexadecimal to RGB convertor.",
             "image": "URL"
         },
         {
             "name": "RGB-convertor",
             "github": "https://github.com/oyintanda-zongwana/RGB-convetor",
             "vercel": "https://rgb-convetor.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This is a RGB to hexadecimal convertor.",
             "image": "URL"
         },
         {
             "name": "Temp-Convertor",
             "github": "https://github.com/oyintanda-zongwana/Temp-Converter",
             "vercel": "https://temp-converter-opal.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This is a temperature convertor, it converts °C to °F.",
             "image": "URL"
         },
         {
             "name": "Keyboard",
             "github": "https://github.com/oyintanda-zongwana/Keyboard",
             "vercel": "https://keyboard-mocha.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS. this keyboard is not functional, this is just for the aesthetic.",
             "image": "URL"
         },
         {
             "name": "TO-DO-LIST",
             "github": "https://github.com/oyintanda-zongwana/to-do-list",
             "vercel": "https://to-do-list-three-ecru.vercel.app/",
-            "discription": "i used ...",
+            "description": "I used HTML,CSS,JavaScript. This is a to do list, to help you with your daily life and keep track of your day/plans.",
             "image": "URL"
         }
     ],
@@ -65,7 +65,7 @@
         "Institution": "Malibu High School",
         "contact": [
             {
-                "name": "Secretary",
+                "name": "Teacher",
                 "contactDetails": "021 909 1105"
             }
         ]
@@ -76,7 +76,7 @@
         "Institution": "life choices coding academy bootcamp",
         "contact": [
             {
-                "name": "Secretary",
+                "name": "Matthew",
                 "contactDetails": "021 696 4157"
             }
         ]
@@ -110,21 +110,44 @@
     ],
     "workExp": [
         {
-            "placeOfWork": "Sound Room",
-            "year": "2017 - Present",
-            "description": "I help to produce a recording or a live performance, balancing and adjusting sound sources using equalization, dynamics processing and audio effects, mixing, reproduction, and reinforcement of sound.",
-            "contact": {
-                "name": "Justice",
-                "cell": "",
-                "position": "Boss"
-            }
+
         }
     ],
     "testimonials": [
         {
-            "name": "",
-            "position": "",
-            "message": "",
+            "name": "Marcus Adonis",
+            "position": "Peer",
+            "message": "Works well with a group and brings good qualities to the table. Does his best to solve problems the most efficient way possible. Very wise this one",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/marcus.jpg"
+        },
+        {
+            "name": "Gwiba Mabandla",
+            "position": "Peer",
+            "message": "O.T is calm and gets straight to point, he is always eager to know what makes things tick and will do anything to find that answer. He is confident and you can see it through his work and personality. We need more people like him.",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/Gwiba.jpg"
+        },
+        {
+            "name": "Keegan Niekerk",
+            "position": "Peer",
+            "message": "Very charismatic and always willing to work his hardest , he is someone who is very easy to work with and always able to bring light to any room. He's a very dedicated young man who works hard to achieve his goals.",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/Keegan.jpg"
+        },
+        {
+            "name": "Chandre Leigh Davids",
+            "position": "Peer",
+            "message": "Oyintanda is a very intelligent individual. He truly is one of the best people to talk to if you'd like but do not allow his calmness to fool you, he is very dedicated in terms of the projects he is required to do. He truly is a person of interest in terms of people who never say no to a challenge.",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/Chandre.jpg"
+        },
+        {
+            "name": "Chloe Almazien",
+            "position": "Peer",
+            "message": "Oyintanda or OT as i know him is a fascinating young man who has his own ideals and views on the world, he is alive with expression and enthusiasm. I would say that he is bold and fear ,always determined to reach heights that he has set for himself, but never forgets to look to the next person be it to ask for help or  to help them . OT is an visionary.",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/chloe.jpg"
+        },
+        {
+            "name": "Matthew Dean Brown",
+            "position": "Lecturer",
+            "message": "Works well with a group and brings good qualities to the table. Does his best to solve problems the most efficient way possible. Very wise this one",
             "image": ""
         }
     ]
