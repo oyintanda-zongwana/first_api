@@ -6,7 +6,7 @@
             "github": "https://github.com/oyintanda-zongwana/Calcolator",
             "vercel": "https://calculator-fawn-one.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This calculator has all the basic functions of a normal calculator.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/calulator.png"
         },
         {
             "name": "BMI calculator",
@@ -48,7 +48,7 @@
             "github": "https://github.com/oyintanda-zongwana/Keyboard",
             "vercel": "https://keyboard-mocha.vercel.app/",
             "description": "I used HTML,CSS. this keyboard is not functional, this is just for the aesthetic.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/keyboard.png"
         },
         {
             "name": "TO-DO-LIST",
