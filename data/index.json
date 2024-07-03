@@ -1,5 +1,11 @@
 {
-    "aboutMe": "My name is Oyintanda Zongwana and i am a student at life choices",
+    "aboutMe": [
+        {
+        "description1": "Greetings 🙋🏾‍♂️! My name is Oyintanda Zongwana, an aspiring full-stack developer with a penchant for simplicity and a knack for making friends faster than you can say 'Hello, World!' console.log('Not always') When I'm not deep in code, you might find me working out, learning something new, or skating—yes, I did just sneak that in there.",
+        "description2": "I speak several languages, including Zulu, which I picked up while living in KZN from the tender age of 4 to 9. I also speak English, Afrikaans, and my home language, Xhosa. My love affair with coding began in Grade 9 when I first discovered what coding was and its myriad functions. Fueled by an insatiable curiosity, I dove headfirst into the world of programming, and now, here I am, ready to turn lines of code into digital masterpieces.",
+        "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/pic2.jpg"
+        }
+],
     "projects": [
         {
             "name": "calculator",
