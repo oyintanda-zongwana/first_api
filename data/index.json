@@ -13,35 +13,35 @@
             "github": "https://github.com/oyintanda-zongwana/BMI-Calculator",
             "vercel": "https://bmi-calculator-vert-zeta.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a basic BMI calculator.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/bmi-calculator.png"
         },
         {
             "name": "E-com Project",
             "github": "https://github.com/oyintanda-zongwana/E-com-project",
             "vercel": "https://e-com-project-beige.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a ecommerce website. It has some basic CRUD functions and it uses local storage.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/ecom-proj.png"
         },
         {
             "name": "Hex-convertor",
             "github": "https://github.com/oyintanda-zongwana/hex-convetort",
             "vercel": "https://hex-convetor.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a hexadecimal to RGB convertor.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/hex-convertor.png"
         },
         {
             "name": "RGB-convertor",
             "github": "https://github.com/oyintanda-zongwana/RGB-convetor",
             "vercel": "https://rgb-convetor.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a RGB to hexadecimal convertor.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/rgb-convertor.png"
         },
         {
             "name": "Temp-Convertor",
             "github": "https://github.com/oyintanda-zongwana/Temp-Converter",
             "vercel": "https://temp-converter-opal.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a temperature convertor, it converts °C to °F.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/temp-convertor.png"
         },
         {
             "name": "Keyboard",
@@ -55,7 +55,7 @@
             "github": "https://github.com/oyintanda-zongwana/to-do-list",
             "vercel": "https://to-do-list-three-ecru.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a to do list, to help you with your daily life and keep track of your day/plans.",
-            "image": "URL"
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/to-do%20list.png"
         }
     ],
     "education": [
