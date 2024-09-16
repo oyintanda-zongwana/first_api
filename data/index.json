@@ -11,8 +11,22 @@
             "name": "calculator",
             "github": "https://github.com/oyintanda-zongwana/Calcolator",
             "vercel": "https://calculator-fawn-one.vercel.app/",
-            "description": "I used HTML,CSS,JavaScript. This calculator has all the basic functions of a normal calculator.",
+            "description": "I used HTML, CSS, JavaScript. This calculator has all the basic functions of a normal calculator.",
             "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/calulator.png"
+        },
+        {
+            "name": "First E-com Project",
+            "github": "https://github.com/oyintanda-zongwana/E-com-project",
+            "vercel": "https://e-com-project-beige.vercel.app/",
+            "description": "I used HTML, CSS, Bootstrap and JavaScript. This is a ecommerce website. It has some basic CRUD functions and it uses local storage.",
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/ecom-proj.png"
+        },
+        {
+            "name": "Second E-com Project",
+            "github": "https://github.com/oyintanda-zongwana/capStone_Project",
+            "vercel": "https://capstone-c3781.web.app/",
+            "description": "I used Node.js, MySQL and Vue.js. This is a ecommerce website. It has CRUD functionality and it uses cookies and tokens.",
+            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/frontend.png"
         },
         {
             "name": "BMI calculator",
@@ -20,13 +34,6 @@
             "vercel": "https://bmi-calculator-vert-zeta.vercel.app/",
             "description": "I used HTML,CSS,JavaScript. This is a basic BMI calculator.",
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/bmi-calculator.png"
-        },
-        {
-            "name": "E-com Project",
-            "github": "https://github.com/oyintanda-zongwana/E-com-project",
-            "vercel": "https://e-com-project-beige.vercel.app/",
-            "description": "I used HTML,CSS,JavaScript. This is a ecommerce website. It has some basic CRUD functions and it uses local storage.",
-            "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/ecom-proj.png"
         },
         {
             "name": "Hex-convertor",
@@ -39,32 +46,43 @@
             "name": "RGB-convertor",
             "github": "https://github.com/oyintanda-zongwana/RGB-convetor",
             "vercel": "https://rgb-convetor.vercel.app/",
-            "description": "I used HTML,CSS,JavaScript. This is a RGB to hexadecimal convertor.",
+            "description": "I used HTML, CSS, JavaScript. This is a RGB to hexadecimal convertor.",
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/rgb-convertor.png"
         },
         {
             "name": "Temp-Convertor",
             "github": "https://github.com/oyintanda-zongwana/Temp-Converter",
             "vercel": "https://temp-converter-opal.vercel.app/",
-            "description": "I used HTML,CSS,JavaScript. This is a temperature convertor, it converts °C to °F.",
+            "description": "I used HTML, CSS, JavaScript. This is a temperature convertor, it converts °C to °F.",
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/temp-convertor.png"
         },
         {
             "name": "Keyboard",
             "github": "https://github.com/oyintanda-zongwana/Keyboard",
             "vercel": "https://keyboard-mocha.vercel.app/",
-            "description": "I used HTML,CSS. this keyboard is not functional, this is just for the aesthetic.",
+            "description": "I used HTML, CSS. this keyboard is not functional, this is just for the aesthetic.",
             "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/keyboard.png"
         },
         {
             "name": "TO-DO-LIST",
             "github": "https://github.com/oyintanda-zongwana/to-do-list",
             "vercel": "https://to-do-list-three-ecru.vercel.app/",
-            "description": "I used HTML,CSS,JavaScript. This is a to do list, to help you with your daily life and keep track of your day/plans.",
+            "description": "I used HTML, CSS, JavaScript. This is a to do list, to help you with your daily life and keep track of your day/plans.",
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/to-do%20list.png"
         }
     ],
     "education": [
+        {
+            "description": "I joined here in April and have been studying coding. I have learnt Bootstrap, CSS, Vue.Js, HTML and Javascript.",
+            "year": "2024 - Presents",
+            "Institution": "life choices coding academy bootcamp",
+            "contact": [
+                {
+                    "name": "Matthew",
+                    "contactDetails": "021 696 4157"
+                }
+            ]
+        },
         {
         "description": "I spent  my highschool years in this school. I matriculated here in 2023.",
         "year": "2019 - 2023",
@@ -75,18 +93,8 @@
                 "contactDetails": "021 909 1105"
             }
         ]
-        },
-        {
-        "description": "I joined here in April and have been studying coding. I have learnt Bootstrap, CSS, Vue.Js, HTML and Javascript.",
-        "year": "2024 - Presents",
-        "Institution": "life choices coding academy bootcamp",
-        "contact": [
-            {
-                "name": "Matthew",
-                "contactDetails": "021 696 4157"
-            }
-        ]
         }
+        
     ],
     "skills":[
         {
