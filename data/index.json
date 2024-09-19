@@ -8,13 +8,6 @@
 ],
     "projects": [
         {
-            "name": "calculator",
-            "github": "https://github.com/oyintanda-zongwana/Calcolator",
-            "vercel": "https://calculator-fawn-one.vercel.app/",
-            "description": "I used HTML, CSS, JavaScript. This calculator has all the basic functions of a normal calculator.",
-            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/calulator.png"
-        },
-        {
             "name": "First E-com Project",
             "github": "https://github.com/oyintanda-zongwana/E-com-project",
             "vercel": "https://e-com-project-beige.vercel.app/",
@@ -27,6 +20,13 @@
             "vercel": "https://capstone-c3781.web.app/",
             "description": "I used Node.js, MySQL and Vue.js. This is a ecommerce website. It has CRUD functionality and it uses cookies and tokens.",
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/frontend.png"
+        },
+        {
+            "name": "calculator",
+            "github": "https://github.com/oyintanda-zongwana/Calcolator",
+            "vercel": "https://calculator-fawn-one.vercel.app/",
+            "description": "I used HTML, CSS, JavaScript. This calculator has all the basic functions of a normal calculator.",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/calulator.png"
         },
         {
             "name": "BMI calculator",
@@ -57,18 +57,18 @@
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/temp-convertor.png"
         },
         {
-            "name": "Keyboard",
-            "github": "https://github.com/oyintanda-zongwana/Keyboard",
-            "vercel": "https://keyboard-mocha.vercel.app/",
-            "description": "I used HTML, CSS. this keyboard is not functional, this is just for the aesthetic.",
-            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/keyboard.png"
-        },
-        {
             "name": "TO-DO-LIST",
             "github": "https://github.com/oyintanda-zongwana/to-do-list",
             "vercel": "https://to-do-list-three-ecru.vercel.app/",
             "description": "I used HTML, CSS, JavaScript. This is a to do list, to help you with your daily life and keep track of your day/plans.",
             "image": "https://oyintanda-zongwana.github.io/hosted-pics/pics%20folder/to-do%20list.png"
+        },
+        {
+            "name": "Keyboard",
+            "github": "https://github.com/oyintanda-zongwana/Keyboard",
+            "vercel": "https://keyboard-mocha.vercel.app/",
+            "description": "I used HTML, CSS. this keyboard is not functional, this is just for the aesthetic.",
+            "image": "https://oyintanda-zongwana.github.io/portfolioimgages/images/keyboard.png"
         }
     ],
     "education": [
